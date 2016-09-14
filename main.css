@@ -1,0 +1,20 @@
+.pagecontent { padding-left: 50 px;
+padding-right: 50px;}
+h1 {font-family: courier, monospace;}
+h1 { font-family: courier, monospace;
+font-size: 30 px; 
+font-weight: bold;
+line-height: 2em;
+    color: #3498D8;}
+h2 { font-family: sans-serif;
+font-size: 24 px; 
+font-weight: bold;
+line-height: 2em;
+    color: #009900;}
+p { font-family: verdana;
+font-size: 18 px; 
+    color: #5C5757;}
+li { font-family: verdana;
+font-size: 18px;
+    color: #5C5757
+margin-bottom:7px;}
